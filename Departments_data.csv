@@ -1,0 +1,806 @@
+"dept_id","dept_name","head_faculty_id"
+100,"Computer Science",101
+200,"Mechanical Engineering",201
+300,"Business Administration",301
+400,"Physics",401
+500,"Art History",501
+501,"Literature",501
+502,"Mathematics",502
+503,"Biology",503
+504,"Chemistry",504
+505,"Psychology",505
+506,"Sociology",506
+507,"Political Science",507
+508,"Economics",508
+509,"Architecture",509
+510,"Civil Engineering",510
+511,"Electrical Engineering",511
+512,"Aerospace Engineering",512
+513,"Chemical Engineering",513
+514,"Geology",514
+515,"Oceanography",515
+516,"Environmental Science",516
+517,"Philosophy",517
+518,"Theology",518
+519,"Journalism",519
+520,"Communications",520
+521,"Music",521
+522,"Theatre Arts",522
+523,"Dance",523
+524,"Film Studies",524
+525,"Digital Media",525
+526,"Public Health",526
+527,"Nursing",527
+528,"Medicine",528
+529,"Law",529
+530,"Education",530
+531,"Library Science",531
+532,"Urban Planning",532
+533,"Kinesiology",533
+534,"Hospitality Management",534
+535,"Foreign Languages",535
+536,"Asian Studies",536
+537,"African Studies",537
+538,"Latin American Studies",538
+539,"Gender Studies",539
+540,"Anthropology",540
+541,"Archaeology",541
+542,"Climatology",542
+543,"Data Science",543
+544,"Cyber Security",544
+545,"Robotics",545
+546,"Materials Science",546
+547,"Biomedical Engineering",547
+548,"Industrial Engineering",548
+549,"Supply Chain Mgmt",549
+550,"Finance",550
+551,"Marketing",551
+552,"Human Resources",552
+553,"Accounting",553
+554,"Information Systems",554
+555,"Creative Writing",555
+556,"Applied Ethics",556
+557,"Speech Pathology",557
+558,"Veterinary Science",558
+559,"Forestry",559
+560,"Agriculture",560
+561,"Food Science",561
+562,"Textile Design",562
+563,"Fashion Merchandising",563
+564,"Interior Design",564
+565,"Graphic Design",565
+566,"Photographer",566
+567,"Sculpture",567
+568,"Printmaking",568
+569,"Ceramics",569
+570,"Art Education",570
+571,"Museum Studies",571
+572,"Paleontology",572
+573,"Astrobiology",573
+574,"Nanotechnology",574
+575,"Quantum Computing",575
+576,"Game Design",576
+577,"Virtual Reality",577
+578,"Criminology",578
+579,"Fire Science",579
+580,"Homeland Security",580
+581,"Cyber Warfare",581
+582,"Renewable Energy",582
+583,"Water Resources",583
+584,"Sustainable Development",584
+585,"Maritime Studies",585
+586,"Aviation",586
+587,"Pilot Training",587
+588,"Air Traffic Control",588
+589,"Automotive Technology",589
+590,"Welding",590
+591,"Culinary Arts",591
+592,"Baking and Pastry Arts",592
+593,"Dietetics",593
+594,"Physiotherapy",594
+595,"Occupational Therapy",595
+596,"Radiography",596
+597,"Paramedic Science",597
+598,"Medical Laboratory Science",598
+599,"Pharmacy",599
+600,"Dentistry",600
+601,"Optometry",601
+602,"Public Administration",602
+603,"Nonprofit Management",603
+604,"Social Work",604
+605,"Rehabilitation Science",605
+606,"Special Education",606
+607,"Curriculum & Instruction",607
+608,"Educational Leadership",608
+609,"School Counseling",609
+610,"Adult Education",610
+611,"Higher Education Admin",611
+612,"Museum Education",612
+613,"Conservation Biology",613
+614,"Genetics",614
+615,"Microbiology",615
+616,"Biochemistry",616
+617,"Virology",617
+618,"Immunology",618
+619,"Neuroscience",619
+620,"Cognitive Science",620
+621,"Comparative Literature",621
+622,"Creative Arts Therapy",622
+623,"Media Studies",623
+624,"Music Education",624
+625,"Ethnomusicology",625
+626,"Studio Art",626
+627,"Performing Arts Mgmt",627
+628,"Set Design",628
+629,"Costume Design",629
+630,"Lighting Design",630
+631,"Sound Design",631
+632,"Stage Management",632
+633,"Art History & Criticism",633
+634,"Graphic Communications",634
+635,"Web Development",635
+636,"User Experience (UX)",636
+637,"Software Engineering",637
+638,"Artificial Intelligence",638
+639,"Machine Learning",639
+640,"Theoretical Physics",640
+641,"Astrophysics",641
+642,"Nuclear Physics",642
+643,"Inorganic Chemistry",643
+644,"Analytical Chemistry",644
+645,"Physical Chemistry",645
+646,"Actuarial Science",646
+647,"Statistics",647
+648,"Applied Mathematics",648
+649,"Operations Research",649
+650,"Construction Management",650
+651,"Transportation Engineering",651
+652,"Environmental Engineering",652
+653,"Structural Engineering",653
+654,"Fluid Dynamics",654
+655,"Thermodynamics & Heat Transfer",655
+656,"Robotics & Control Systems",656
+657,"Mechatronics",657
+658,"Acoustics",658
+659,"Vibration Analysis",659
+660,"Systems Engineering",660
+661,"Biostatistics",661
+662,"Epidemiology",662
+663,"Health Policy",663
+664,"Gerontology",664
+665,"Child Development",665
+666,"Counseling Psychology",666
+667,"Clinical Psychology",667
+668,"Industrial-Organizational Psychology",668
+669,"Experimental Psychology",669
+670,"Sociolinguistics",670
+671,"Historical Linguistics",671
+672,"Syntax & Semantics",672
+673,"Phonetics & Phonology",673
+674,"Applied Linguistics",674
+675,"Classics",675
+676,"Medieval Studies",676
+677,"Renaissance Studies",677
+678,"Modern History",678
+679,"Military History",679
+680,"Diplomacy",680
+681,"International Relations",681
+682,"Political Economy",682
+683,"Public Policy",683
+684,"Constitutional Law",684
+685,"Criminal Justice",685
+686,"Environmental Law",686
+687,"Intellectual Property Law",687
+688,"Tax Law",688
+689,"Trusts & Estates",689
+690,"Maritime Law",690
+691,"Patent Law",691
+692,"Space Law",692
+693,"Digital Forensics",693
+694,"Disaster Management",694
+695,"Global Studies",695
+696,"Security Studies",696
+697,"Peace Studies",697
+698,"Holocaust Studies",698
+699,"Jewish Studies",699
+700,"Islamic Studies",700
+701,"Jish Willeam",701
+702,"Buddhist Studies",702
+703,"Hindu Studies",703
+704,"Sikh Studies",704
+705,"Eastern Religions",705
+706,"Western Religions",706
+707,"Biblical Studies",707
+708,"Patristics",708
+709,"Ecclesiastical History",709
+710,"Practical Theology",710
+711,"Missiology",711
+712,"Homiletics",712
+713,"Liturgical Studies",713
+714,"Canon Law",714
+715,"Medieval History",715
+716,"Early Modern History",716
+717,"Modern European History",717
+718,"US History",718
+719,"Asian History",719
+720,"African History",720
+721,"History of Science",721
+722,"Public History",722
+723,"Archives & Records Management",723
+724,"Oral History",724
+725,"Digital Humanities",725
+726,"Critical Theory",726
+727,"Epistemology",727
+728,"Metaphysics",728
+729,"Logic",729
+730,"Ethics",730
+731,"Aesthetics",731
+732,"Political Philosophy",732
+733,"Ancient Philosophy",733
+734,"Continental Philosophy",734
+735,"Philosophy of Mind",735
+736,"Philosophy of Language",736
+737,"Literary Theory",737
+738,"Poetry",738
+739,"Prose Fiction",739
+740,"Drama Studies",740
+741,"Creative Nonfiction",741
+742,"Children's Literature",742
+743,"Young Adult Literature",743
+744,"Technical Writing",744
+745,"Professional Communication",745
+746,"Rhetoric",746
+747,"Speech Communication",747
+748,"Intercultural Communication",748
+749,"Organizational Communication",749
+750,"Media Production",750
+751,"Broadcast Journalism",751
+752,"Investigative Journalism",752
+753,"Photojournalism",753
+754,"Documentary Film",754
+755,"Film Theory",755
+756,"Screenwriting",756
+757,"Cinematography",757
+758,"Editing",758
+759,"Sound Design for Film",759
+760,"Animation",760
+761,"Digital Arts",761
+762,"Virtual & Augmented Reality",762
+763,"Interactive Design",763
+764,"Game Programming",764
+765,"Game Business",765
+766,"Drawing",766
+767,"Painting",767
+768,"Photogrph",768
+769,"Video Art",769
+770,"Performance Art",770
+771,"Curatorial Studies",771
+772,"Art Conservation",772
+773,"Art Market Studies",773
+774,"Fashion History",774
+775,"Costume History",775
+776,"Textile Science",776
+777,"Footwear Design",777
+778,"Jewelry Design",778
+779,"Apparel Management",779
+780,"Merchandising",780
+781,"E-Commerce",781
+782,"Retail Management",782
+783,"Global Business",783
+784,"International Marketing",784
+785,"Business Law",785
+786,"Entrepreneurship",786
+787,"Small Business Management",787
+788,"Venture Capital",788
+789,"Hedge Fund Management",789
+790,"Risk Management",790
+791,"Insurance Studies",791
+792,"Real Estate",792
+793,"Wealth Management",793
+794,"Financial Planning",794
+795,"Forensic Accounting",795
+796,"Taxation",796
+797,"Audit",797
+798,"Managerial Accounting",798
+799,"Supply Chain Analytics",799
+800,"Logistics",800
+801,"Quality Control",801
+802,"Production Management",802
+803,"Operations Management",803
+804,"Project Management",804
+805,"Industrial Relations",805
+806,"Talent Acquisition",806
+807,"Compensation & Benefits",807
+808,"Organizational Development",808
+809,"Training & Development",809
+810,"Employee Relations",810
+811,"Labor Studies",811
+812,"Conflict Resolution",812
+813,"Negotiation",813
+814,"Mediation",814
+815,"Criminal Justice Administration",815
+816,"Law Enforcement",816
+817,"Corrections",817
+818,"Forensic Science",818
+819,"Crime Scene Investigation",819
+820,"Victimology",820
+821,"Juvenile Justice",821
+822,"Addiction Studies",822
+823,"Community Health",823
+824,"Global Health",824
+825,"Maternal & Child Health",825
+826,"Nutrition Science",826
+827,"Health Informatics",827
+828,"Healthcare Management",828
+829,"Biomedical Ethics",829
+830,"Medical Sociology",830
+831,"Dental Hygiene",831
+832,"Anesthesiology",832
+833,"Cardiology",833
+834,"Dermatology",834
+835,"Emergency Medicine",835
+836,"Family Medicine",836
+837,"Neurology",837
+838,"Oncology",838
+839,"Pediatrics",839
+840,"Surgery",840
+841,"Veterinary Technology",841
+842,"Animal Science",842
+843,"Dairy Science",843
+844,"Horticulture",844
+845,"Soil Science",845
+846,"Crop Science",846
+847,"Agricultural Economics",847
+848,"Agricultural Education",848
+849,"Equestrian Studies",849
+850,"Fisheries Science",850
+851,"Wildlife Management",851
+852,"Conservation Science",852
+853,"Park Management",853
+854,"Ecotourism",854
+855,"Renewable Resource Mgmt",855
+856,"Water Quality",856
+857,"Air Quality",857
+858,"Waste Management",858
+859,"Hazardous Materials Mgmt",859
+860,"Industrial Hygiene",860
+861,"Occupational Safety",861
+862,"Fire Protection Engineering",862
+863,"Disaster Science",863
+864,"Emergency Response",864
+865,"Homeland Security Policy",865
+866,"Counterterrorism",866
+867,"Intelligence Studies",867
+868,"Military Science",868
+869,"Naval Science",869
+870,"Air Force ROTC",870
+871,"Astronautical Engineering",871
+872,"Rocket Propulsion",872
+873,"Satellite Communications",873
+874,"Remote Sensing",874
+875,"Geographic Information Systems (GIS)",875
+876,"Cartography",876
+877,"Surveying",877
+878,"Petroleum Engineering",878
+879,"Mining Engineering",879
+880,"Metallurgical Engineering",880
+881,"Polymer Science",881
+882,"Ceramic Engineering",882
+883,"Nanomaterials",883
+884,"Microfluidics",884
+885,"Optoelectronics",885
+886,"Telecommunications",886
+887,"Power Systems",887
+888,"Control Theory",888
+889,"Signal Processing",889
+890,"Computer Vision",890
+891,"Natural Language Processing",891
+892,"Computational Biology",892
+893,"Bioinformatics",893
+894,"Computational Physics",894
+895,"Numerical Analysis",895
+896,"Chaos Theory",896
+897,"Topology",897
+898,"Abstract Algebra",898
+899,"Number Theory",899
+900,"Geometry",900
+901,"Complex Analysis",901
+902,"Differential Equations",902
+903,"Harmonic Analysis",903
+904,"Stochastic Processes",904
+905,"Biophysics",905
+906,"Astrochemistry",906
+907,"Atmospheric Science",907
+908,"Seismology",908
+909,"Volcanology",909
+910,"Glaciology",910
+911,"Planetary Science",911
+912,"Cosmology",912
+913,"Particle Physics",913
+914,"Plasma Physics",914
+915,"Fluid Mechanics",915
+916,"Solid State Physics",916
+917,"Acoustical Engineering",917
+918,"Optical Engineering",918
+919,"Laser Technology",919
+920,"Vacuum Technology",920
+921,"Cryogenics",921
+922,"Renewable Energy Systems",922
+923,"Fossil Fuel Technology",923
+924,"Nuclear Engineering",924
+925,"Geothermal Engineering",925
+926,"Hydropower Engineering",926
+927,"Wind Energy Engineering",927
+928,"Solar Energy Engineering",928
+929,"Petrochemical Engineering",929
+930,"Plastics Engineering",930
+931,"Rubber Technology",931
+932,"Pulp and Paper Science",932
+933,"Wood Science",933
+934,"Ceramics and Glass Science",934
+935,"Composites Engineering",935
+936,"Textile Engineering",936
+937,"Leather Technology",937
+938,"Food Processing Engineering",938
+939,"Brewing Science",939
+940,"Viticulture and Enology",940
+941,"Dairy Technology",941
+942,"Meat Science",942
+943,"Poultry Science",943
+944,"Aquaculture",944
+945,"Beekeeping Science",945
+946,"Ecology",946
+947,"Botany",947
+948,"Zoology",948
+949,"Entomology",949
+950,"Herpetology",950
+951,"Ornithology",951
+952,"Mammalogy",952
+953,"Ichthyology",953
+954,"Parasitology",954
+955,"Mycology",955
+956,"Phycology",956
+957,"Plant Pathology",957
+958,"Weed Science",958
+959,"Agroecology",959
+960,"Permaculture",960
+961,"Sustainable Agriculture",961
+962,"Precision Agriculture",962
+963,"Remote Sensing & Drones",963
+964,"Geodesy",964
+965,"Photogrammetry",965
+966,"Hydrography",966
+967,"Traffic Engineering",967
+968,"Railway Engineering",968
+969,"Airport Engineering",969
+970,"Bridge Engineering",970
+971,"Tunnel Engineering",971
+972,"Coastal Engineering",972
+973,"Offshore Engineering",973
+974,"Naval Architecture",974
+975,"Shipbuilding",975
+976,"Yacht Design",976
+977,"Aerodynamics",977
+978,"Flight Mechanics",978
+979,"Aircraft Structures",979
+980,"Avionics",980
+981,"Rotorcraft Engineering",981
+982,"Unmanned Systems",982
+983,"Human Factors Engineering",983
+984,"Ergonomics",984
+985,"Quality Engineering",985
+986,"Reliability Engineering",986
+987,"Maintenance Engineering",987
+988,"Asset Management",988
+989,"Process Improvement",989
+990,"Lean Manufacturing",990
+991,"Six Sigma",991
+992,"Technology Management",992
+993,"Innovation Studies",993
+994,"Technology Transfer",994
+995,"Science Policy",995
+996,"Biotechnology Law",996
+997,"Medical Law",997
+998,"Sports Law",998
+999,"Admiralty Law",999
+1000,"International Trade Law",1000
+1001,"European Union Law",1001
+1002,"Comparative Law",1002
+1003,"Jurisprudence",1003
+1004,"Legal History",1004
+1005,"African-American Studies",1005
+1006,"Chicano Studies",1006
+1007,"Native American Studies",1007
+1008,"Disability Studies",1008
+1009,"Geriatric Medicine",1009
+1010,"Palliative Care",1010
+1011,"Hospice Care",1011
+1012,"Trauma Surgery",1012
+1013,"Neurosurgery",1013
+1014,"Plastic Surgery",1014
+1015,"Orthopedics",1015
+1016,"Urology",1016
+1017,"Ophthalmology",1017
+1018,"Otolaryngology (ENT)",1018
+1019,"Radiology",1019
+1020,"Pathology",1020
+1021,"Endocrinology",1021
+1022,"Gastroenterology",1022
+1023,"Rheumatology",1023
+1024,"Infectious Disease",1024
+1025,"Pulmonology",1025
+1026,"Nephrology",1026
+1027,"Hematology",1027
+1028,"Reproductive Medicine",1028
+1029,"Midwifery",1029
+1030,"Perinatal Nursing",1030
+1031,"Pediatric Nursing",1031
+1032,"Gerontological Nursing",1032
+1033,"Psychiatric Nursing",1033
+1034,"Emergency Nursing",1034
+1035,"Critical Care Nursing",1035
+1036,"Anesthesia Technology",1036
+1037,"Surgical Technology",1037
+1038,"Respiratory Therapy",1038
+1039,"Cardiovascular Technology",1039
+1040,"Diagnostic Medical Sonography",1040
+1041,"Nuclear Medicine Technology",1041
+1042,"Radiation Therapy",1042
+1043,"Massage Therapy",1043
+1044,"Acupuncture",1044
+1045,"Herbal Medicine",1045
+1046,"Naturopathic Medicine",1046
+1047,"Chiropractic",1047
+1048,"Homoeopathy",1048
+1049,"Ayurveda",1049
+1050,"Traditional Chinese Medicine",1050
+1051,"Hypnosis",1051
+1052,"Reiki",1052
+1053,"Yoga Studies",1053
+1054,"Tai Chi Studies",1054
+1055,"Martial Arts Studies",1055
+1056,"Coaching Science",1056
+1057,"Sports Management",1057
+1058,"Athletic Training",1058
+1059,"Exercise Physiology",1059
+1060,"Motor Control",1060
+1061,"Biomechanics",1061
+1062,"Sports Psychology",1062
+1063,"Adapted Physical Education",1063
+1064,"Outdoor Recreation",1064
+1065,"Adventure Education",1065
+1066,"Leisure Studies",1066
+1067,"Resort Management",1067
+1068,"Casino Management",1068
+1069,"Theme Park Management",1069
+1070,"Cruise Line Management",1070
+1071,"Meeting & Event Planning",1071
+1072,"Tourism Development",1072
+1073,"Cultural Heritage Tourism",1073
+1074,"Eco-Tourism",1074
+1075,"Sustainable Tourism",1075
+1076,"Ethical Tourism",1076
+1077,"Aviation Management",1077
+1078,"Aeronautical Science",1078
+1079,"Aircraft Maintenance",1079
+1080,"Air Cargo Management",1080
+1081,"Ground Operations",1081
+1082,"Transportation Planning",1082
+1083,"Public Transit Management",1083
+1084,"High-Speed Rail",1084
+1085,"Logistics & Distribution",1085
+1086,"Warehouse Management",1086
+1087,"Port Operations",1087
+1088,"Customs Brokerage",1088
+1089,"International Shipping",1089
+1090,"Trade Compliance",1090
+1091,"Global Sourcing",1091
+1092,"Retail Analytics",1092
+1093,"Consumer Behavior",1093
+1094,"Advertising",1094
+1095,"Public Relations",1095
+1096,"Social Media Marketing",1096
+1097,"Digital Strategy",1097
+1098,"Search Engine Optimization (SEO)",1098
+1099,"Content Strategy",1099
+1100,"Brand Management",1100
+1101,"Public Relations Management",1101
+1102,"Sales Management",1102
+1103,"Franchise Management",1103
+1104,"Retail Store Design",1104
+1105,"Visual Merchandising",1105
+1106,"Product Development",1106
+1107,"Quality Assurance",1107
+1108,"Process Engineering",1108
+1109,"Manufacturing Technology",1109
+1110,"Additive Manufacturing",1110
+1111,"Tool and Die Making",1111
+1112,"Precision Machining",1112
+1113,"Welding Technology",1113
+1114,"HVAC Technology",1114
+1115,"Plumbing Technology",1115
+1116,"Electrical Technology",1116
+1117,"Instrumentation and Control",1117
+1118,"Telecommunication Systems",1118
+1119,"Fiber Optics",1119
+1120,"Wireless Communication",1120
+1121,"Cloud Computing",1121
+1122,"DevOps",1122
+1123,"System Administration",1123
+1124,"Network Engineering",1124
+1125,"Database Management",1125
+1126,"Big Data Analytics",1126
+1127,"Data Mining",1127
+1128,"Predictive Modeling",1128
+1129,"Computational Linguistics",1129
+1130,"Speech Recognition",1130
+1131,"HCI (Human-Computer Interaction)",1131
+1132,"Cognitive Ergonomics",1132
+1133,"Affective Computing",1133
+1134,"Virtual Worlds Design",1134
+1135,"Augmented Reality Development",1135
+1136,"Simulation and Modeling",1136
+1137,"Optimization Theory",1137
+1138,"Queueing Theory",1138
+1139,"Decision Science",1139
+1140,"Game Theory",1140
+1141,"Actuarial Mathematics",1141
+1142,"Mathematical Finance",1142
+1143,"Financial Engineering",1143
+1144,"Quantitative Economics",1144
+1145,"Monetary Economics",1145
+1146,"Development Economics",1146
+1147,"Behavioral Economics",1147
+1148,"Experimental Economics",1148
+1149,"Econometrics",1149
+1150,"Industrial Economics",1150
+1151,"Health Economics",1151
+1152,"Labor Economics",1152
+1153,"Urban Economics",1153
+1154,"Regional Economics",1154
+1155,"Public Finance",1155
+1156,"Fiscal Policy",1156
+1157,"International Finance",1157
+1158,"Trade Policy",1158
+1159,"Foreign Policy",1159
+1160,"Intelligence Analysis",1160
+1161,"National Security Studies",1161
+1162,"Defense Studies",1162
+1163,"Counter-Insurgency",1163
+1164,"Terrorism Studies",1164
+1165,"Conflict and Peace Studies",1165
+1166,"Humanitarian Aid",1166
+1167,"Disaster Relief",1167
+1168,"Refugee Studies",1168
+1169,"Migration Studies",1169
+1170,"Human Rights Law",1170
+1171,"International Criminal Law",1171
+1172,"Transnational Law",1172
+1173,"Alternative Dispute Resolution",1173
+1174,"Family Law",1174
+1175,"Wills and Trusts",1175
+1176,"Bankruptcy Law",1176
+1177,"Consumer Protection Law",1177
+1178,"Housing Policy",1178
+1179,"Transportation Policy",1179
+1180,"Energy Policy",1180
+1181,"Climate Policy",1181
+1182,"Environmental Policy",1182
+1183,"Science and Technology Policy",1183
+1184,"Education Policy",1184
+1185,"Social Policy",1185
+1186,"Welfare Studies",1186
+1187,"Poverty Studies",1187
+1188,"Community Development",1188
+1189,"Social Justice Studies",1189
+1190,"Ethnic Studies",1190
+1191,"Multicultural Education",1191
+1192,"Bilingual Education",1192
+1193,"ESL/TESOL",1193
+1194,"Literacy Education",1194
+1195,"Mathematics Education",1195
+1196,"Science Education",1196
+1197,"Artistic Education",1197
+1198,"Musical Education",1198
+1199,"Physical Education",1199
+1200,"Health Education",1200
+1201,"School Administration",1201
+1202,"Superintendent Leadership",1202
+1203,"Higher Ed Administration",1203
+1204,"Student Affairs",1204
+1205,"Academic Advising",1205
+1206,"Career Services",1206
+1207,"Residence Life",1207
+1208,"Campus Security",1208
+1209,"University Budgeting",1209
+1210,"Institutional Research",1210
+1211,"University Development",1211
+1212,"Alumni Relations",1212
+1213,"University Communications",1213
+1214,"Grants and Contracts",1214
+1215,"Research Ethics",1215
+1216,"Laboratory Management",1216
+1217,"Animal Care and Use",1217
+1218,"Biohazard Safety",1218
+1219,"Chemical Safety",1219
+1220,"Radiation Safety",1220
+1221,"Occupational Health",1221
+1222,"Environmental Compliance",1222
+1223,"Facilities Management",1223
+1224,"Campus Sustainability",1224
+1225,"Energy Conservation",1225
+1226,"Water Management",1226
+1227,"Recycling and Waste",1227
+1228,"Grounds Maintenance",1228
+1229,"Custodial Services",1229
+1230,"Fleet Management",1230
+1231,"Parking and Transit",1231
+1232,"Campus Mail Services",1232
+1233,"Printing Services",1233
+1234,"Retail Operations",1234
+1235,"University Dining Services",1235
+1236,"Catering Services",1236
+1237,"Bookstore Management",1237
+1238,"Licensing and Trademarks",1238
+1239,"Intellectual Property Management",1239
+1240,"Patent Law Clinic",1240
+1241,"Trademark Law Clinic",1241
+1242,"Dispute Resolution Clinic",1242
+1243,"Immigration Law Clinic",1243
+1244,"Civil Rights Clinic",1244
+1245,"Environmental Law Clinic",1245
+1246,"Veterans Law Clinic",1246
+1247,"Death Penalty Clinic",1247
+1248,"Child Advocacy Clinic",1248
+1249,"Elder Law Clinic",1249
+1250,"Tribal Law Clinic",1250
+1251,"Media Law Clinic",1251
+1252,"Startup Law Clinic",1252
+1253,"FinTech Law",1253
+1254,"Blockchain Law",1254
+1255,"Privacy and Data Security Law",1255
+1256,"Internet Law",1256
+1257,"eSports Law",1257
+1258,"Space Commercialization Law",1258
+1259,"Artificial Intelligence Law",1259
+1260,"Robotics Law",1260
+1261,"Bioethics and Policy",1261
+1262,"Medical Anthropology",1262
+1263,"Sociology of Health and Illness",1263
+1264,"Psychology of Health and Medicine",1264
+1265,"Health Communication",1265
+1266,"Public Interest Communications",1266
+1267,"Science Communication",1267
+1268,"Technical Communication",1268
+1269,"Visual Communication",1269
+1270,"Photo and Videojournalism",1270
+1271,"Data Visualization",1271
+1272,"Infographics Design",1272
+1273,"Interaction Design",1273
+1274,"Service Design",1274
+1275,"Design Thinking",1275
+1276,"Creativity Studies",1276
+1277,"Innovation Psychology",1277
+1278,"Futures Studies (Futurology)",1278
+1279,"Scenario Planning",1279
+1280,"Risk and Resilience Studies",1280
+1281,"Disaster Risk Reduction",1281
+1282,"Emergency Management",1282
+1283,"Crisis Communication",1283
+1284,"Conflict Archaeology",1284
+1285,"Historical Preservation",1285
+1286,"Cultural Resource Management",1286
+1287,"Heritage Studies",1287
+1288,"Genealogy",1288
+1289,"Linguistics and Translation",1289
+1290,"Sign Language Studies",1290
+1291,"Aural & Oral Communication",1291
+1292,"Braille Studies",1292
+1293,"Assistive Technology",1293
+1294,"Recreational Therapy",1294
+1295,"Art Therapy",1295
+1296,"Music Therapy",1296
+1297,"Drama Therapy",1297
+1298,"Equine Therapy",1298
+1299,"Horticultural Therapy",1299
+1300,"Pet Therapy",1300
